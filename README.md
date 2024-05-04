@@ -14,6 +14,6 @@ In this study, an in-depth comparative experimental framework is established to 
 
 U-net:[[Baidu Netdisk](https://pan.baidu.com/s/13UOxfzTdiZu2Ya-bAXOVfg)] password:qpzm
 
-SVM: [[Baidu Netdisk]] password: tku7
+SVM:[[Baidu Netdisk](https://pan.baidu.com/s/1PdZOreC8289BSNZPWwMvhA)] password:qpzn
 
-RF: [[Baidu Netdisk]] password: 809t
+RF:[[Baidu Netdisk](链接：https://pan.baidu.com/s/1WtH7EuBkDLzDK5SuLzcyrQ)] password:qpzb
