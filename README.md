@@ -27,6 +27,6 @@ RF:[[Baidu Netdisk](https://pan.baidu.com/s/1WtH7EuBkDLzDK5SuLzcyrQ)] password:q
 
 model file:[[Baidu Netdisk](https://pan.baidu.com/s/1E7nN-S4okaCsT8BpnbNIGQ)] password:qpza
 
-Part of the remote sensing image:[[Baidu Netdisk](https://pan.baidu.com/s/1smAxZCNMXfsH-7RBeNd9Tw)] password:qpzc
+Validation sample:[[Baidu Netdisk](https://pan.baidu.com/s/1smAxZCNMXfsH-7RBeNd9Tw)] password:qpzc
 
 Part of the remote sensing image:[[Baidu Netdisk](https://pan.baidu.com/s/15uSqIh-scB6wmkapMx_Yhw)] password:qpzo
