@@ -22,7 +22,7 @@ Image land cover classification results：
 
 
 
-In the future, relevant data such as training model and training data will be uploaded gradually
+In the future, relevant data such as training model and training data will be uploaded gradually.
 In addition, if you encounter any technical problems or need further guidance while using this open source file, please send an email to the following address:
 - Email: ahnu_glw@foxmail.com
 I will reply to your questions as soon as possible. Thank you for your support and contribution to this project.
