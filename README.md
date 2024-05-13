@@ -33,6 +33,6 @@ I will reply to your questions as soon as possible. Thank you for your support a
 ## <div align="center">Introduction</div>
 In this study, an in-depth comparative experimental framework is established to scrutinize the effects of remote sensing image data sources and machine learning algorithms on the social functional classification of green spaces. The high-resolution CBERS-04A imagery (2m) is juxtaposed with medium-resolution data from Landsat TM (30m) and Sentinel-2 (10m), ensuring a level playing field by utilizing identical input parameters across the board. This meticulous approach allows for a clear delineation of the advantages and limitations inherent in various data resolutions for the purpose of green space analysis.The image below is detail comparisons of land cover classification results based on different classification algorithms using the CBERS-04A images.
 
-<div align="center">![对比图2](https://github.com/glw5201314/Classification-results-of-green-space/assets/74762812/b13a2d22-13ea-4849-8bc6-d6cdbb2153a6)
+<div align="center">[对比图2](https://github.com/glw5201314/Classification-results-of-green-space/assets/74762812/b13a2d22-13ea-4849-8bc6-d6cdbb2153a6)!
 
 
