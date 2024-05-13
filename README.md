@@ -14,9 +14,9 @@ Validation sample:(https://pan.baidu.com/s/1smAxZCNMXfsH-7RBeNd9Tw)  password:qp
 
 Image land cover classification results：
 
-1U-net:(https://pan.baidu.com/s/13UOxfzTdiZu2Ya-bAXOVfg)password:qpzm
+1U-net:(https://pan.baidu.com/s/13UOxfzTdiZu2Ya-bAXOVfg)  password:qpzm
 
-2SVM:(https://pan.baidu.com/s/1PdZOreC8289BSNZPWwMvhA)password:qpzn
+2SVM:(https://pan.baidu.com/s/1PdZOreC8289BSNZPWwMvhA)  password:qpzn
 
 3RF:(https://pan.baidu.com/s/1WtH7EuBkDLzDK5SuLzcyrQ) password:qpzb
 
