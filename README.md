@@ -3,7 +3,7 @@
 ### NEWS !!!
 * **`May. 04th, 2024`:** :rocket: Provide land cover classification based on CBERS-04A imagery using U-net,RF,SVM!
 * **`May. 11th, 2024`:** :rocket: Provide  remote sensing image, validation data!
-* 
+  
 In the future, relevant data such as training model and training data will be uploaded gradually
 
 ## Download
