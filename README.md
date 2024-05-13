@@ -1,10 +1,10 @@
 # Classification-results-of-green-space
 
 ### NEWS !!!
-* **`May. 04th, 2024`:** :rocket: Provide land classification data extracted using U-net,RF,SVM based on 2-meter resolution!
+* **`May. 04th, 2024`:** :rocket: Provide land cover classification based on CBERS-04A imagery using U-net,RF,SVM!
+* **`May. 11th, 2024`:** :rocket: Provide  remote sensing image, validation data!
+* 
 In the future, relevant data such as training model and training data will be uploaded gradually
-
-* **`May. 11th, 2024`:** :rocket: Provide part 2 two-meter remote sensing image, unet model file, validation data!
 
 ## Download
 
