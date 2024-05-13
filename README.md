@@ -12,7 +12,7 @@ Remote sensing image:(https://pan.baidu.com/s/15uSqIh-scB6wmkapMx_Yhw)   passwor
 
 Validation sample:(https://pan.baidu.com/s/1smAxZCNMXfsH-7RBeNd9Tw)  password:qpzc
 
-Image land cover classification results：
+Land cover classification results：
 
 1U-net:(https://pan.baidu.com/s/13UOxfzTdiZu2Ya-bAXOVfg)  password:qpzm
 
